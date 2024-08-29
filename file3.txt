@@ -1,3 +1,5 @@
 new text file.
 
 trying to commit this file without using add command
+ocean
+sky
