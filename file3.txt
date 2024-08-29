@@ -1,5 +1,5 @@
 new text file.
-
+continents
 trying to commit this file without using add command
 ocean
 sky
