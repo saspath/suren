@@ -1,1 +1,2 @@
 first commit of index file - 1
+second commit of index file - 2
