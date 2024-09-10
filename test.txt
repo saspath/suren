@@ -4,3 +4,4 @@ updating same line in bugfix branch to create conflicts for branch merge
 always enjoy learning new things 
 trying to work on stash
 trying to create conflicts issue -2
+testing merge conflicts-1
