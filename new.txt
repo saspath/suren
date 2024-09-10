@@ -1,5 +1,5 @@
 adding a new file to commit to remote repo and see if it asks for PAT token
-
+trying to create CONFLICTS and resolve 
 no its popping out the window and asking for login details of github foe the first time.
 
 just checking the clean command. how it works..
