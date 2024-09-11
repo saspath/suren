@@ -5,3 +5,4 @@ always enjoy learning new things
 trying to work on stash
 trying to create conflicts issue -2
 testing merge conflicts-1
+testing cherry-pick command 1
