@@ -8,3 +8,5 @@ testing merge conflicts-1
 testing cherry-pick command 1
 testing cherry-pick command 2
 testing cherry-pick command 3
+testing cherry-pick command 4
+testing cherry-pick command 3
